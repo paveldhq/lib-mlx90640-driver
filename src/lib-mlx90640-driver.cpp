@@ -15,7 +15,7 @@
 
 #include <Wire.h>
 
-#include "MLX90640_I2C_Driver.h"
+#include <lib-mlx90640-driver.h>
 
 void MLX90640_I2CInit()
 {
